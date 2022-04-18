@@ -1,8 +1,8 @@
 {
     "hostname": "",
     "twitch": {
-        "client_id": "e6s02f9czjeckmg9cq70dmywqp34py",
-        "client_secret": "637xfxdfuvl87mtyzzibcwemq5f49e"
+        "client_id": "",
+        "client_secret": ""
     },
     "mongo": {
         "uri": ""
