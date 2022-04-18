@@ -5,6 +5,6 @@
         "client_secret": "637xfxdfuvl87mtyzzibcwemq5f49e"
     },
     "mongo": {
-        "uri": "mongodb+srv://test:izO9djIthUXyjtGj@cluster0.kmkgv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        "uri": ""
     }
 }
